@@ -1,0 +1,20 @@
+root
+root
+left1 ; middle1 ; right1
+left1son ; left1son ; left1rig2
+SonofLeftest ; AppliedtoRightmost ; left1rig2lef3
+Add operation not possible.
+root
+left1 ; middle1 ; right1
+left1 ; left1 ; NewRight, ; b) ; b)AddM(a,b
+SonofLeftest ; NewNode ; AppliedtoRightmost ; left1rig2lef3 ; CommasWork ; a) ; c)
+done
+root
+left1New ; left1New ; New,Right
+left1New ; left1New ; CommasWork ; a)DelM(a ; b)AddM(a,b
+b) ; NewNode ; AppliedtoRightmost ; b)Exchange(a,b ; CommasWork ; a) ; c)
+done
+root
+left1New ; New,Right
+left1New ; left1New ; CommasWork ; a)DelM(a
+NewNode ; AppliedtoRightmost ; b)Exchange(a,b ; CommasWork ; c)

@@ -1,0 +1,5 @@
+AddL(root,test)
+AddM(root,test)
+AddR(root,test)
+AddL(root,test)
+Print()
